@@ -1,2 +1,3 @@
 # game-caro-c-
-btl ltnc uet
+
+Bài tập lớn LTNC C
